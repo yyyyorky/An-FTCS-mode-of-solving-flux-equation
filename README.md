@@ -1,0 +1,1 @@
+# A-FTCS-mode-of-solving-flux-equation
